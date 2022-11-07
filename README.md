@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" href="./style.css">
+<link rel="stylesheet" type="text/css" href="https://github.com/Alexis-Zhang0812/Alexis-Zhang0812/blob/main/style.css">
 
 ## Hi there 👋 I’m NeetYun
 💻 Programmer(Learning...)  
