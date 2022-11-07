@@ -1,4 +1,4 @@
-<style type="text/css" rel="stylesheet">
+<style>
 /* desktop */
 @media screen and (min-width: 880px) {
     img {
