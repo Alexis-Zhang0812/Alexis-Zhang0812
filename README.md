@@ -1,4 +1,20 @@
-<link rel="stylesheet" type="text/css" href="https://github.com/Alexis-Zhang0812/Alexis-Zhang0812/blob/main/style.css">
+<style type="text/css" rel="stylesheet">
+/* desktop */
+@media screen and (min-width: 880px) {
+    img {
+        height: 185px;
+        align: center;
+    }
+}
+
+/* mobile */
+@media screen and (max-width: 879px) {
+    img {
+        width: 300px;
+        align: center;
+    }
+}
+</style>
 
 ## Hi there 👋 I’m NeetYun
 💻 Programmer(Learning...)  
