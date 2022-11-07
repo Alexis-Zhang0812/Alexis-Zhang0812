@@ -1,19 +1,9 @@
 <style>
-/* desktop */
-@media screen and (min-width: 880px) {
-    img {
-        height: 185px;
-        align: center;
-    }
-}
 
-/* mobile */
-@media screen and (max-width: 879px) {
     img {
-        width: 300px;
+        width: 185px;
         align: center;
     }
-}
 </style>
 
 ## Hi there 👋 I’m NeetYun
