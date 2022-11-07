@@ -1,10 +1,10 @@
-## Hi 👋 I’m NeetYun
-💻 Programmer(Maybe?)  
+## Hi there 👋 I’m NeetYun
+💻 Programmer  
 📉 Crypto Trader  
-🚫 No overtime work  
+🚫 **NO OVERTIME WORK**  
 ㊗️ 爱老婆  
 
 
-[![NeetYun's GitHub stats-Dark](https://github-readme-stats-alpha-pied-25.vercel.app/api?username=Alexis-Zhang0812&show_icons=true&bg_color=282c34&title_color=e5c07b&text_color=e06c75&icon_color=98c379)](https://github.com/Alexis-Zhang0812/github-readme-stats#gh-dark-mode-only)
-[![NeetYun's GitHub stats-Light](https://github-readme-stats-alpha-pied-25.vercel.app/api?username=Alexis-Zhang0812&show_icons=true&bg_color=fafafa&title_color=cb7701&text_color=e45679&icon_color=50a14f)](https://github.com/Alexis-Zhang0812/github-readme-stats#gh-light-mode-only)
+[![NeetYun's GitHub stats-Dark](https://github-readme-stats-alpha-pied-25.vercel.app/api?username=Alexis-Zhang0812&show_icons=true&theme=yunsOneDark)](https://github.com/Alexis-Zhang0812/github-readme-stats#gh-dark-mode-only)
+[![NeetYun's GitHub stats-Light](https://github-readme-stats-alpha-pied-25.vercel.app/api?username=Alexis-Zhang0812&show_icons=true&theme=yunsOneLight)](https://github.com/Alexis-Zhang0812/github-readme-stats#gh-light-mode-only)
 
